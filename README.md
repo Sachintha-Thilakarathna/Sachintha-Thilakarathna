@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sachintha-Thilakarathna" alt="Sachintha-Thilakarathna" /></a> </p>
 
-- 🌱 I’m currently learning **Html,css,javascript,python,php**
+- 🌱 I’m currently learning **Html,css,javascript,python,php,mysql**
 
 - 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/1523616993430818139?pli=1](https://www.blogger.com/u/1/blog/posts/1523616993430818139?pli=1)
 
