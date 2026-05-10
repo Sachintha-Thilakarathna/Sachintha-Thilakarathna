@@ -65,5 +65,5 @@ I am a passionate **Fullstack Web Developer** from the beautiful island of **Sri
 </p>
 
 <div align="center">
-  <i>Thanks for stopping by! Keep coding! 💻✨</i>
+  <i>Thanks for stopping by! 💻✨</i>
 </div>
