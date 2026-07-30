@@ -41,16 +41,34 @@ I am a passionate **Fullstack Web Developer** from the beautiful island of **Sri
 
 ### 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachintha-Thilakarathna&theme=onedark&column=7" alt="Trophies" />
-  </a>
-</p>
+<div align="center">
+    <img align="center"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+  </div>
+  <br>
+  <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachintha-Thilakarathna&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Thilakarathna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180em" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachintha-Thilakarathna&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sachintha-Thilakarathna&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RansikaSeniya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RansikaSeniya&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
+<br/>
+<br/>
 ---
 
 ### 📱 Connect with me:
