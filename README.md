@@ -42,12 +42,6 @@ I am a passionate **Fullstack Web Developer** from the beautiful island of **Sri
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-    <img align="center"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
-  </div>
-  <br>
-  <br>
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -61,11 +55,11 @@ I am a passionate **Fullstack Web Developer** from the beautiful island of **Sri
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RansikaSeniya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachintha-Thilakarathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RansikaSeniya&theme=tokyonight" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachintha-Thilakarathna&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 <br/>
 <br/>
