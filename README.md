@@ -47,10 +47,10 @@ I am a passionate **Fullstack Web Developer** from the beautiful island of **Sri
   </a>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachintha-Thilakarathna&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Thilakarathna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180em" />
-</div>
+</p>
 
 ---
 
